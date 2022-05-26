@@ -1,1 +1,1 @@
-Hello all, I am an intern at Leapfrog.
+Hello all, I am an intern at Leapfrog. I am starting to learn about Git and version control using Git.
